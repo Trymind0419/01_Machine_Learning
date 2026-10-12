@@ -1,0 +1,11 @@
+﻿"""
+"CustomerID": 고객 고유 식별자 (int)
+"Age": 고객 나이 (int)
+"Gender": 고객 성별 (object)
+"Tenure": 가입 기간_월단위 (int)
+"MonthlyCharges": 월 평균 결제액 (float)
+"TotalCharges": 총 결제액 (float)
+"SupportCalls": 고객센터 문의 횟수 (int)
+"ReviewScore": 리뷰 평균 점수 (float)
+"Churn": 이탈 여부_0:유지, 1:이탈 (int)
+"""
